@@ -1,0 +1,528 @@
+﻿DATE,PRODUCT ID,QUANTITY,SALE TYPE,PAYMENT MODE,DISCOUNT %,PRODUCT,CATEGORY,UOM,BUYING PRIZE,SELLING PRICE,Total buying value,Total selling value,Total profit,day,month,year
+01/01/2021,P0024,9,Wholesaler,Online,0.0%,Product24,Category03,Ft,$144.00,$156.96,"$1,296.00","$1,412.64",$116.64,1,Jan,2021
+02/01/2021,P0038,15,Online,Cash,0.0%,Product38,Category05,Kg,$72.00,$79.92,"$1,080.00","$1,198.80",$118.80,2,Jan,2021
+02/01/2021,P0013,6,Direct Sales,Cash,0.0%,Product13,Category02,Kg,$112.00,$122.08,$672.00,$732.48,$60.48,2,Jan,2021
+03/01/2021,P0004,5,Direct Sales,Online,0.0%,Product04,Category01,Lt,$44.00,$48.84,$220.00,$244.20,$24.20,3,Jan,2021
+04/01/2021,P0035,12,Online,Online,0.0%,Product35,Category04,No.,$5.00,$6.70,$60.00,$80.40,$20.40,4,Jan,2021
+09/01/2021,P0031,1,Direct Sales,Cash,0.0%,Product31,Category04,Kg,$93.00,$104.16,$93.00,$104.16,$11.16,9,Jan,2021
+09/01/2021,P0003,8,Direct Sales,Cash,0.0%,Product03,Category01,Kg,$71.00,$80.94,$568.00,$647.52,$79.52,9,Jan,2021
+09/01/2021,P0025,4,Direct Sales,Online,0.0%,Product25,Category03,No.,$7.00,$8.33,$28.00,$33.32,$5.32,9,Jan,2021
+11/01/2021,P0037,3,Direct Sales,Cash,0.0%,Product37,Category05,Kg,$67.00,$85.76,$201.00,$257.28,$56.28,11,Jan,2021
+11/01/2021,P0014,4,Wholesaler,Online,0.0%,Product14,Category02,Kg,$112.00,$146.72,$448.00,$586.88,$138.88,11,Jan,2021
+11/01/2021,P0042,4,Direct Sales,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,$480.00,$648.00,$168.00,11,Jan,2021
+12/01/2021,P0042,10,Online,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,"$1,200.00","$1,620.00",$420.00,12,Jan,2021
+18/01/2021,P0044,13,Direct Sales,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,$988.00,"$1,067.04",$79.04,18,Jan,2021
+18/01/2021,P0023,3,Online,Cash,0.0%,Product23,Category03,Ft,$141.00,$149.46,$423.00,$448.38,$25.38,18,Jan,2021
+19/01/2021,P0035,6,Direct Sales,Cash,0.0%,Product35,Category04,No.,$5.00,$6.70,$30.00,$40.20,$10.20,19,Jan,2021
+20/01/2021,P0034,4,Direct Sales,Cash,0.0%,Product34,Category04,Lt,$55.00,$58.30,$220.00,$233.20,$13.20,20,Jan,2021
+20/01/2021,P0020,4,Direct Sales,Cash,0.0%,Product20,Category03,Lt,$61.00,$76.25,$244.00,$305.00,$61.00,20,Jan,2021
+21/01/2021,P0004,15,Wholesaler,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$660.00,$732.60,$72.60,21,Jan,2021
+21/01/2021,P0003,9,Direct Sales,Online,0.0%,Product03,Category01,Kg,$71.00,$80.94,$639.00,$728.46,$89.46,21,Jan,2021
+21/01/2021,P0042,6,Direct Sales,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,$720.00,$972.00,$252.00,21,Jan,2021
+25/01/2021,P0034,6,Direct Sales,Cash,0.0%,Product34,Category04,Lt,$55.00,$58.30,$330.00,$349.80,$19.80,25,Jan,2021
+25/01/2021,P0035,7,Direct Sales,Online,0.0%,Product35,Category04,No.,$5.00,$6.70,$35.00,$46.90,$11.90,25,Jan,2021
+25/01/2021,P0031,14,Direct Sales,Online,0.0%,Product31,Category04,Kg,$93.00,$104.16,"$1,302.00","$1,458.24",$156.24,25,Jan,2021
+26/01/2021,P0044,9,Wholesaler,Cash,0.0%,Product44,Category05,Kg,$76.00,$82.08,$684.00,$738.72,$54.72,26,Jan,2021
+26/01/2021,P0006,7,Online,Cash,0.0%,Product06,Category01,Kg,$75.00,$85.50,$525.00,$598.50,$73.50,26,Jan,2021
+26/01/2021,P0001,7,Online,Online,0.0%,Product01,Category01,Kg,$98.00,$103.88,$686.00,$727.16,$41.16,26,Jan,2021
+27/01/2021,P0040,7,Wholesaler,Online,0.0%,Product40,Category05,Kg,$90.00,$115.20,$630.00,$806.40,$176.40,27,Jan,2021
+27/01/2021,P0032,3,Wholesaler,Online,0.0%,Product32,Category04,Kg,$89.00,$117.48,$267.00,$352.44,$85.44,27,Jan,2021
+28/01/2021,P0004,10,Online,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$440.00,$488.40,$48.40,28,Jan,2021
+28/01/2021,P0029,2,Direct Sales,Cash,0.0%,Product29,Category04,Lt,$47.00,$53.11,$94.00,$106.22,$12.22,28,Jan,2021
+02/02/2021,P0010,7,Online,Online,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,036.00","$1,149.96",$113.96,2,Feb,2021
+03/02/2021,P0016,13,Direct Sales,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$169.00,$216.32,$47.32,3,Feb,2021
+03/02/2021,P0022,2,Wholesaler,Cash,0.0%,Product22,Category03,Ft,$121.00,$141.57,$242.00,$283.14,$41.14,3,Feb,2021
+04/02/2021,P0037,4,Online,Online,0.0%,Product37,Category05,Kg,$67.00,$85.76,$268.00,$343.04,$75.04,4,Feb,2021
+05/02/2021,P0043,7,Online,Cash,0.0%,Product43,Category05,Kg,$67.00,$83.08,$469.00,$581.56,$112.56,5,Feb,2021
+05/02/2021,P0005,1,Direct Sales,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,$133.00,$155.61,$22.61,5,Feb,2021
+05/02/2021,P0043,9,Direct Sales,Cash,0.0%,Product43,Category05,Kg,$67.00,$83.08,$603.00,$747.72,$144.72,5,Feb,2021
+06/02/2021,P0035,1,Direct Sales,Cash,0.0%,Product35,Category04,No.,$5.00,$6.70,$5.00,$6.70,$1.70,6,Feb,2021
+09/02/2021,P0034,14,Direct Sales,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$770.00,$816.20,$46.20,9,Feb,2021
+12/02/2021,P0008,7,Direct Sales,Cash,0.0%,Product08,Category01,Kg,$83.00,$94.62,$581.00,$662.34,$81.34,12,Feb,2021
+12/02/2021,P0023,9,Online,Cash,0.0%,Product23,Category03,Ft,$141.00,$149.46,"$1,269.00","$1,345.14",$76.14,12,Feb,2021
+15/02/2021,P0027,4,Direct Sales,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$192.00,$228.48,$36.48,15,Feb,2021
+18/02/2021,P0015,6,Online,Cash,0.0%,Product15,Category02,No.,$12.00,$15.72,$72.00,$94.32,$22.32,18,Feb,2021
+20/02/2021,P0030,11,Online,Cash,0.0%,Product30,Category04,Ft,$148.00,$201.28,"$1,628.00","$2,214.08",$586.08,20,Feb,2021
+22/02/2021,P0013,5,Online,Cash,0.0%,Product13,Category02,Kg,$112.00,$122.08,$560.00,$610.40,$50.40,22,Feb,2021
+23/02/2021,P0025,3,Direct Sales,Cash,0.0%,Product25,Category03,No.,$7.00,$8.33,$21.00,$24.99,$3.99,23,Feb,2021
+23/02/2021,P0005,2,Direct Sales,Online,0.0%,Product05,Category01,Ft,$133.00,$155.61,$266.00,$311.22,$45.22,23,Feb,2021
+25/02/2021,P0002,4,Wholesaler,Online,0.0%,Product02,Category01,Kg,$105.00,$142.80,$420.00,$571.20,$151.20,25,Feb,2021
+25/02/2021,P0032,11,Online,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,$979.00,"$1,292.28",$313.28,25,Feb,2021
+25/02/2021,P0030,2,Direct Sales,Online,0.0%,Product30,Category04,Ft,$148.00,$201.28,$296.00,$402.56,$106.56,25,Feb,2021
+27/02/2021,P0018,11,Wholesaler,Online,0.0%,Product18,Category02,No.,$37.00,$49.21,$407.00,$541.31,$134.31,27,Feb,2021
+03/03/2021,P0011,1,Direct Sales,Online,0.0%,Product11,Category02,Lt,$44.00,$48.40,$44.00,$48.40,$4.40,3,Mar,2021
+07/03/2021,P0021,9,Direct Sales,Cash,0.0%,Product21,Category03,Ft,$126.00,$162.54,"$1,134.00","$1,462.86",$328.86,7,Mar,2021
+08/03/2021,P0027,6,Online,Cash,0.0%,Product27,Category04,Lt,$48.00,$57.12,$288.00,$342.72,$54.72,8,Mar,2021
+08/03/2021,P0044,9,Online,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,$684.00,$738.72,$54.72,8,Mar,2021
+09/03/2021,P0029,6,Wholesaler,Online,0.0%,Product29,Category04,Lt,$47.00,$53.11,$282.00,$318.66,$36.66,9,Mar,2021
+11/03/2021,P0025,11,Direct Sales,Cash,0.0%,Product25,Category03,No.,$7.00,$8.33,$77.00,$91.63,$14.63,11,Mar,2021
+13/03/2021,P0028,10,Wholesaler,Cash,0.0%,Product28,Category04,No.,$37.00,$41.81,$370.00,$418.10,$48.10,13,Mar,2021
+15/03/2021,P0039,11,Online,Cash,0.0%,Product39,Category05,No.,$37.00,$42.55,$407.00,$468.05,$61.05,15,Mar,2021
+16/03/2021,P0012,14,Direct Sales,Cash,0.0%,Product12,Category02,Kg,$73.00,$94.17,"$1,022.00","$1,318.38",$296.38,16,Mar,2021
+18/03/2021,P0042,8,Wholesaler,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$960.00,"$1,296.00",$336.00,18,Mar,2021
+19/03/2021,P0028,9,Online,Cash,0.0%,Product28,Category04,No.,$37.00,$41.81,$333.00,$376.29,$43.29,19,Mar,2021
+21/03/2021,P0020,13,Online,Online,0.0%,Product20,Category03,Lt,$61.00,$76.25,$793.00,$991.25,$198.25,21,Mar,2021
+21/03/2021,P0039,7,Direct Sales,Online,0.0%,Product39,Category05,No.,$37.00,$42.55,$259.00,$297.85,$38.85,21,Mar,2021
+22/03/2021,P0002,8,Online,Online,0.0%,Product02,Category01,Kg,$105.00,$142.80,$840.00,"$1,142.40",$302.40,22,Mar,2021
+22/03/2021,P0012,4,Online,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,$292.00,$376.68,$84.68,22,Mar,2021
+25/03/2021,P0024,14,Online,Cash,0.0%,Product24,Category03,Ft,$144.00,$156.96,"$2,016.00","$2,197.44",$181.44,25,Mar,2021
+25/03/2021,P0006,4,Direct Sales,Cash,0.0%,Product06,Category01,Kg,$75.00,$85.50,$300.00,$342.00,$42.00,25,Mar,2021
+25/03/2021,P0029,8,Direct Sales,Cash,0.0%,Product29,Category04,Lt,$47.00,$53.11,$376.00,$424.88,$48.88,25,Mar,2021
+25/03/2021,P0038,2,Direct Sales,Online,0.0%,Product38,Category05,Kg,$72.00,$79.92,$144.00,$159.84,$15.84,25,Mar,2021
+26/03/2021,P0001,4,Direct Sales,Cash,0.0%,Product01,Category01,Kg,$98.00,$103.88,$392.00,$415.52,$23.52,26,Mar,2021
+26/03/2021,P0042,1,Direct Sales,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$120.00,$162.00,$42.00,26,Mar,2021
+26/03/2021,P0010,9,Direct Sales,Online,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,332.00","$1,478.52",$146.52,26,Mar,2021
+27/03/2021,P0030,3,Direct Sales,Online,0.0%,Product30,Category04,Ft,$148.00,$201.28,$444.00,$603.84,$159.84,27,Mar,2021
+28/03/2021,P0007,8,Online,Cash,0.0%,Product07,Category01,Lt,$43.00,$47.73,$344.00,$381.84,$37.84,28,Mar,2021
+30/03/2021,P0038,1,Online,Cash,0.0%,Product38,Category05,Kg,$72.00,$79.92,$72.00,$79.92,$7.92,30,Mar,2021
+31/03/2021,P0042,3,Direct Sales,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$360.00,$486.00,$126.00,31,Mar,2021
+04/04/2021,P0040,4,Direct Sales,Cash,0.0%,Product40,Category05,Kg,$90.00,$115.20,$360.00,$460.80,$100.80,4,Apr,2021
+04/04/2021,P0009,9,Online,Cash,0.0%,Product09,Category01,No.,$6.00,$7.86,$54.00,$70.74,$16.74,4,Apr,2021
+05/04/2021,P0031,15,Online,Online,0.0%,Product31,Category04,Kg,$93.00,$104.16,"$1,395.00","$1,562.40",$167.40,5,Apr,2021
+09/04/2021,P0005,3,Online,Online,0.0%,Product05,Category01,Ft,$133.00,$155.61,$399.00,$466.83,$67.83,9,Apr,2021
+10/04/2021,P0022,14,Direct Sales,Online,0.0%,Product22,Category03,Ft,$121.00,$141.57,"$1,694.00","$1,981.98",$287.98,10,Apr,2021
+12/04/2021,P0037,3,Direct Sales,Cash,0.0%,Product37,Category05,Kg,$67.00,$85.76,$201.00,$257.28,$56.28,12,Apr,2021
+12/04/2021,P0029,4,Direct Sales,Online,0.0%,Product29,Category04,Lt,$47.00,$53.11,$188.00,$212.44,$24.44,12,Apr,2021
+12/04/2021,P0027,9,Direct Sales,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$432.00,$514.08,$82.08,12,Apr,2021
+12/04/2021,P0033,13,Direct Sales,Cash,0.0%,Product33,Category04,Kg,$95.00,$119.70,"$1,235.00","$1,556.10",$321.10,12,Apr,2021
+15/04/2021,P0017,3,Direct Sales,Online,0.0%,Product17,Category02,Ft,$134.00,$156.78,$402.00,$470.34,$68.34,15,Apr,2021
+16/04/2021,P0018,15,Direct Sales,Cash,0.0%,Product18,Category02,No.,$37.00,$49.21,$555.00,$738.15,$183.15,16,Apr,2021
+18/04/2021,P0038,9,Wholesaler,Online,0.0%,Product38,Category05,Kg,$72.00,$79.92,$648.00,$719.28,$71.28,18,Apr,2021
+18/04/2021,P0019,13,Direct Sales,Cash,0.0%,Product19,Category02,Ft,$150.00,$210.00,"$1,950.00","$2,730.00",$780.00,18,Apr,2021
+23/04/2021,P0042,6,Direct Sales,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,$720.00,$972.00,$252.00,23,Apr,2021
+23/04/2021,P0028,10,Direct Sales,Online,0.0%,Product28,Category04,No.,$37.00,$41.81,$370.00,$418.10,$48.10,23,Apr,2021
+24/04/2021,P0030,2,Online,Online,0.0%,Product30,Category04,Ft,$148.00,$201.28,$296.00,$402.56,$106.56,24,Apr,2021
+26/04/2021,P0037,3,Direct Sales,Online,0.0%,Product37,Category05,Kg,$67.00,$85.76,$201.00,$257.28,$56.28,26,Apr,2021
+29/04/2021,P0030,7,Direct Sales,Online,0.0%,Product30,Category04,Ft,$148.00,$201.28,"$1,036.00","$1,408.96",$372.96,29,Apr,2021
+30/04/2021,P0029,1,Direct Sales,Online,0.0%,Product29,Category04,Lt,$47.00,$53.11,$47.00,$53.11,$6.11,30,Apr,2021
+01/05/2021,P0018,3,Online,Cash,0.0%,Product18,Category02,No.,$37.00,$49.21,$111.00,$147.63,$36.63,1,May,2021
+01/05/2021,P0042,1,Online,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$120.00,$162.00,$42.00,1,May,2021
+03/05/2021,P0034,3,Online,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$165.00,$174.90,$9.90,3,May,2021
+04/05/2021,P0015,13,Online,Online,0.0%,Product15,Category02,No.,$12.00,$15.72,$156.00,$204.36,$48.36,4,May,2021
+04/05/2021,P0014,4,Direct Sales,Cash,0.0%,Product14,Category02,Kg,$112.00,$146.72,$448.00,$586.88,$138.88,4,May,2021
+05/05/2021,P0009,13,Direct Sales,Cash,0.0%,Product09,Category01,No.,$6.00,$7.86,$78.00,$102.18,$24.18,5,May,2021
+06/05/2021,P0008,15,Direct Sales,Online,0.0%,Product08,Category01,Kg,$83.00,$94.62,"$1,245.00","$1,419.30",$174.30,6,May,2021
+06/05/2021,P0009,6,Online,Online,0.0%,Product09,Category01,No.,$6.00,$7.86,$36.00,$47.16,$11.16,6,May,2021
+07/05/2021,P0018,1,Direct Sales,Cash,0.0%,Product18,Category02,No.,$37.00,$49.21,$37.00,$49.21,$12.21,7,May,2021
+09/05/2021,P0016,6,Online,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$78.00,$99.84,$21.84,9,May,2021
+09/05/2021,P0028,8,Direct Sales,Cash,0.0%,Product28,Category04,No.,$37.00,$41.81,$296.00,$334.48,$38.48,9,May,2021
+12/05/2021,P0016,3,Direct Sales,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$39.00,$49.92,$10.92,12,May,2021
+12/05/2021,P0035,15,Direct Sales,Online,0.0%,Product35,Category04,No.,$5.00,$6.70,$75.00,$100.50,$25.50,12,May,2021
+13/05/2021,P0029,4,Direct Sales,Online,0.0%,Product29,Category04,Lt,$47.00,$53.11,$188.00,$212.44,$24.44,13,May,2021
+20/05/2021,P0042,2,Online,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$240.00,$324.00,$84.00,20,May,2021
+23/05/2021,P0040,11,Direct Sales,Online,0.0%,Product40,Category05,Kg,$90.00,$115.20,$990.00,"$1,267.20",$277.20,23,May,2021
+30/05/2021,P0023,13,Online,Online,0.0%,Product23,Category03,Ft,$141.00,$149.46,"$1,833.00","$1,942.98",$109.98,30,May,2021
+30/05/2021,P0013,6,Online,Cash,0.0%,Product13,Category02,Kg,$112.00,$122.08,$672.00,$732.48,$60.48,30,May,2021
+03/06/2021,P0021,10,Direct Sales,Cash,0.0%,Product21,Category03,Ft,$126.00,$162.54,"$1,260.00","$1,625.40",$365.40,3,Jun,2021
+04/06/2021,P0020,8,Wholesaler,Online,0.0%,Product20,Category03,Lt,$61.00,$76.25,$488.00,$610.00,$122.00,4,Jun,2021
+04/06/2021,P0020,12,Online,Cash,0.0%,Product20,Category03,Lt,$61.00,$76.25,$732.00,$915.00,$183.00,4,Jun,2021
+05/06/2021,P0022,15,Wholesaler,Online,0.0%,Product22,Category03,Ft,$121.00,$141.57,"$1,815.00","$2,123.55",$308.55,5,Jun,2021
+05/06/2021,P0035,10,Direct Sales,Online,0.0%,Product35,Category04,No.,$5.00,$6.70,$50.00,$67.00,$17.00,5,Jun,2021
+06/06/2021,P0033,6,Direct Sales,Online,0.0%,Product33,Category04,Kg,$95.00,$119.70,$570.00,$718.20,$148.20,6,Jun,2021
+08/06/2021,P0028,11,Direct Sales,Online,0.0%,Product28,Category04,No.,$37.00,$41.81,$407.00,$459.91,$52.91,8,Jun,2021
+08/06/2021,P0004,11,Wholesaler,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$484.00,$537.24,$53.24,8,Jun,2021
+09/06/2021,P0001,7,Direct Sales,Online,0.0%,Product01,Category01,Kg,$98.00,$103.88,$686.00,$727.16,$41.16,9,Jun,2021
+11/06/2021,P0032,12,Wholesaler,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,"$1,068.00","$1,409.76",$341.76,11,Jun,2021
+12/06/2021,P0041,6,Direct Sales,Online,0.0%,Product41,Category05,Ft,$138.00,$173.88,$828.00,"$1,043.28",$215.28,12,Jun,2021
+14/06/2021,P0025,10,Online,Cash,0.0%,Product25,Category03,No.,$7.00,$8.33,$70.00,$83.30,$13.30,14,Jun,2021
+16/06/2021,P0019,5,Wholesaler,Cash,0.0%,Product19,Category02,Ft,$150.00,$210.00,$750.00,"$1,050.00",$300.00,16,Jun,2021
+16/06/2021,P0015,12,Online,Cash,0.0%,Product15,Category02,No.,$12.00,$15.72,$144.00,$188.64,$44.64,16,Jun,2021
+16/06/2021,P0039,11,Direct Sales,Cash,0.0%,Product39,Category05,No.,$37.00,$42.55,$407.00,$468.05,$61.05,16,Jun,2021
+18/06/2021,P0025,13,Direct Sales,Cash,0.0%,Product25,Category03,No.,$7.00,$8.33,$91.00,$108.29,$17.29,18,Jun,2021
+19/06/2021,P0041,5,Direct Sales,Online,0.0%,Product41,Category05,Ft,$138.00,$173.88,$690.00,$869.40,$179.40,19,Jun,2021
+20/06/2021,P0016,1,Wholesaler,Cash,0.0%,Product16,Category02,No.,$13.00,$16.64,$13.00,$16.64,$3.64,20,Jun,2021
+23/06/2021,P0016,4,Direct Sales,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$52.00,$66.56,$14.56,23,Jun,2021
+24/06/2021,P0011,13,Direct Sales,Online,0.0%,Product11,Category02,Lt,$44.00,$48.40,$572.00,$629.20,$57.20,24,Jun,2021
+26/06/2021,P0009,7,Online,Online,0.0%,Product09,Category01,No.,$6.00,$7.86,$42.00,$55.02,$13.02,26,Jun,2021
+27/06/2021,P0005,11,Direct Sales,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,"$1,463.00","$1,711.71",$248.71,27,Jun,2021
+28/06/2021,P0021,2,Online,Cash,0.0%,Product21,Category03,Ft,$126.00,$162.54,$252.00,$325.08,$73.08,28,Jun,2021
+28/06/2021,P0035,7,Online,Online,0.0%,Product35,Category04,No.,$5.00,$6.70,$35.00,$46.90,$11.90,28,Jun,2021
+29/06/2021,P0014,4,Direct Sales,Online,0.0%,Product14,Category02,Kg,$112.00,$146.72,$448.00,$586.88,$138.88,29,Jun,2021
+01/07/2021,P0005,11,Direct Sales,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,"$1,463.00","$1,711.71",$248.71,1,Jul,2021
+02/07/2021,P0010,11,Direct Sales,Cash,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,628.00","$1,807.08",$179.08,2,Jul,2021
+03/07/2021,P0033,9,Online,Cash,0.0%,Product33,Category04,Kg,$95.00,$119.70,$855.00,"$1,077.30",$222.30,3,Jul,2021
+03/07/2021,P0003,8,Online,Cash,0.0%,Product03,Category01,Kg,$71.00,$80.94,$568.00,$647.52,$79.52,3,Jul,2021
+05/07/2021,P0002,8,Direct Sales,Online,0.0%,Product02,Category01,Kg,$105.00,$142.80,$840.00,"$1,142.40",$302.40,5,Jul,2021
+06/07/2021,P0041,15,Direct Sales,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$2,070.00","$2,608.20",$538.20,6,Jul,2021
+08/07/2021,P0004,10,Direct Sales,Online,0.0%,Product04,Category01,Lt,$44.00,$48.84,$440.00,$488.40,$48.40,8,Jul,2021
+10/07/2021,P0034,6,Wholesaler,Cash,0.0%,Product34,Category04,Lt,$55.00,$58.30,$330.00,$349.80,$19.80,10,Jul,2021
+11/07/2021,P0009,4,Wholesaler,Online,0.0%,Product09,Category01,No.,$6.00,$7.86,$24.00,$31.44,$7.44,11,Jul,2021
+13/07/2021,P0019,1,Direct Sales,Cash,0.0%,Product19,Category02,Ft,$150.00,$210.00,$150.00,$210.00,$60.00,13,Jul,2021
+16/07/2021,P0023,8,Wholesaler,Cash,0.0%,Product23,Category03,Ft,$141.00,$149.46,"$1,128.00","$1,195.68",$67.68,16,Jul,2021
+18/07/2021,P0027,14,Online,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$672.00,$799.68,$127.68,18,Jul,2021
+20/07/2021,P0038,11,Online,Online,0.0%,Product38,Category05,Kg,$72.00,$79.92,$792.00,$879.12,$87.12,20,Jul,2021
+20/07/2021,P0043,5,Direct Sales,Online,0.0%,Product43,Category05,Kg,$67.00,$83.08,$335.00,$415.40,$80.40,20,Jul,2021
+21/07/2021,P0029,15,Direct Sales,Online,0.0%,Product29,Category04,Lt,$47.00,$53.11,$705.00,$796.65,$91.65,21,Jul,2021
+22/07/2021,P0026,3,Wholesaler,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$54.00,$73.98,$19.98,22,Jul,2021
+22/07/2021,P0024,14,Online,Cash,0.0%,Product24,Category03,Ft,$144.00,$156.96,"$2,016.00","$2,197.44",$181.44,22,Jul,2021
+23/07/2021,P0036,7,Wholesaler,Online,0.0%,Product36,Category04,Kg,$90.00,$96.30,$630.00,$674.10,$44.10,23,Jul,2021
+23/07/2021,P0037,8,Direct Sales,Online,0.0%,Product37,Category05,Kg,$67.00,$85.76,$536.00,$686.08,$150.08,23,Jul,2021
+24/07/2021,P0009,4,Online,Cash,0.0%,Product09,Category01,No.,$6.00,$7.86,$24.00,$31.44,$7.44,24,Jul,2021
+29/07/2021,P0044,15,Online,Cash,0.0%,Product44,Category05,Kg,$76.00,$82.08,"$1,140.00","$1,231.20",$91.20,29,Jul,2021
+01/08/2021,P0001,11,Direct Sales,Cash,0.0%,Product01,Category01,Kg,$98.00,$103.88,"$1,078.00","$1,142.68",$64.68,1,Aug,2021
+02/08/2021,P0023,3,Direct Sales,Online,0.0%,Product23,Category03,Ft,$141.00,$149.46,$423.00,$448.38,$25.38,2,Aug,2021
+03/08/2021,P0022,13,Online,Online,0.0%,Product22,Category03,Ft,$121.00,$141.57,"$1,573.00","$1,840.41",$267.41,3,Aug,2021
+03/08/2021,P0034,12,Online,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$660.00,$699.60,$39.60,3,Aug,2021
+05/08/2021,P0028,14,Direct Sales,Cash,0.0%,Product28,Category04,No.,$37.00,$41.81,$518.00,$585.34,$67.34,5,Aug,2021
+06/08/2021,P0037,1,Wholesaler,Cash,0.0%,Product37,Category05,Kg,$67.00,$85.76,$67.00,$85.76,$18.76,6,Aug,2021
+10/08/2021,P0005,4,Wholesaler,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,$532.00,$622.44,$90.44,10,Aug,2021
+10/08/2021,P0044,10,Online,Cash,0.0%,Product44,Category05,Kg,$76.00,$82.08,$760.00,$820.80,$60.80,10,Aug,2021
+10/08/2021,P0006,6,Direct Sales,Cash,0.0%,Product06,Category01,Kg,$75.00,$85.50,$450.00,$513.00,$63.00,10,Aug,2021
+11/08/2021,P0023,4,Direct Sales,Online,0.0%,Product23,Category03,Ft,$141.00,$149.46,$564.00,$597.84,$33.84,11,Aug,2021
+13/08/2021,P0011,13,Direct Sales,Online,0.0%,Product11,Category02,Lt,$44.00,$48.40,$572.00,$629.20,$57.20,13,Aug,2021
+13/08/2021,P0027,9,Direct Sales,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$432.00,$514.08,$82.08,13,Aug,2021
+16/08/2021,P0003,3,Online,Online,0.0%,Product03,Category01,Kg,$71.00,$80.94,$213.00,$242.82,$29.82,16,Aug,2021
+18/08/2021,P0025,6,Direct Sales,Online,0.0%,Product25,Category03,No.,$7.00,$8.33,$42.00,$49.98,$7.98,18,Aug,2021
+20/08/2021,P0020,15,Direct Sales,Cash,0.0%,Product20,Category03,Lt,$61.00,$76.25,$915.00,"$1,143.75",$228.75,20,Aug,2021
+20/08/2021,P0031,9,Direct Sales,Online,0.0%,Product31,Category04,Kg,$93.00,$104.16,$837.00,$937.44,$100.44,20,Aug,2021
+20/08/2021,P0028,13,Direct Sales,Online,0.0%,Product28,Category04,No.,$37.00,$41.81,$481.00,$543.53,$62.53,20,Aug,2021
+26/08/2021,P0039,4,Direct Sales,Online,0.0%,Product39,Category05,No.,$37.00,$42.55,$148.00,$170.20,$22.20,26,Aug,2021
+29/08/2021,P0034,12,Wholesaler,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$660.00,$699.60,$39.60,29,Aug,2021
+30/08/2021,P0013,13,Direct Sales,Online,0.0%,Product13,Category02,Kg,$112.00,$122.08,"$1,456.00","$1,587.04",$131.04,30,Aug,2021
+31/08/2021,P0001,2,Direct Sales,Online,0.0%,Product01,Category01,Kg,$98.00,$103.88,$196.00,$207.76,$11.76,31,Aug,2021
+31/08/2021,P0035,11,Direct Sales,Online,0.0%,Product35,Category04,No.,$5.00,$6.70,$55.00,$73.70,$18.70,31,Aug,2021
+01/09/2021,P0024,1,Wholesaler,Cash,0.0%,Product24,Category03,Ft,$144.00,$156.96,$144.00,$156.96,$12.96,1,Sep,2021
+01/09/2021,P0003,14,Online,Online,0.0%,Product03,Category01,Kg,$71.00,$80.94,$994.00,"$1,133.16",$139.16,1,Sep,2021
+03/09/2021,P0041,8,Direct Sales,Online,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,104.00","$1,391.04",$287.04,3,Sep,2021
+04/09/2021,P0028,7,Direct Sales,Online,0.0%,Product28,Category04,No.,$37.00,$41.81,$259.00,$292.67,$33.67,4,Sep,2021
+04/09/2021,P0023,15,Direct Sales,Online,0.0%,Product23,Category03,Ft,$141.00,$149.46,"$2,115.00","$2,241.90",$126.90,4,Sep,2021
+05/09/2021,P0032,1,Direct Sales,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,$89.00,$117.48,$28.48,5,Sep,2021
+07/09/2021,P0019,5,Direct Sales,Online,0.0%,Product19,Category02,Ft,$150.00,$210.00,$750.00,"$1,050.00",$300.00,7,Sep,2021
+09/09/2021,P0044,4,Direct Sales,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,$304.00,$328.32,$24.32,9,Sep,2021
+10/09/2021,P0030,6,Direct Sales,Online,0.0%,Product30,Category04,Ft,$148.00,$201.28,$888.00,"$1,207.68",$319.68,10,Sep,2021
+10/09/2021,P0001,9,Wholesaler,Online,0.0%,Product01,Category01,Kg,$98.00,$103.88,$882.00,$934.92,$52.92,10,Sep,2021
+10/09/2021,P0026,2,Direct Sales,Online,0.0%,Product26,Category04,No.,$18.00,$24.66,$36.00,$49.32,$13.32,10,Sep,2021
+11/09/2021,P0001,6,Wholesaler,Online,0.0%,Product01,Category01,Kg,$98.00,$103.88,$588.00,$623.28,$35.28,11,Sep,2021
+13/09/2021,P0041,7,Direct Sales,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,$966.00,"$1,217.16",$251.16,13,Sep,2021
+15/09/2021,P0042,6,Direct Sales,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,$720.00,$972.00,$252.00,15,Sep,2021
+15/09/2021,P0042,14,Direct Sales,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,"$1,680.00","$2,268.00",$588.00,15,Sep,2021
+21/09/2021,P0020,7,Wholesaler,Cash,0.0%,Product20,Category03,Lt,$61.00,$76.25,$427.00,$533.75,$106.75,21,Sep,2021
+22/09/2021,P0040,2,Online,Cash,0.0%,Product40,Category05,Kg,$90.00,$115.20,$180.00,$230.40,$50.40,22,Sep,2021
+22/09/2021,P0002,4,Direct Sales,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,$420.00,$571.20,$151.20,22,Sep,2021
+23/09/2021,P0018,12,Direct Sales,Cash,0.0%,Product18,Category02,No.,$37.00,$49.21,$444.00,$590.52,$146.52,23,Sep,2021
+23/09/2021,P0021,7,Online,Online,0.0%,Product21,Category03,Ft,$126.00,$162.54,$882.00,"$1,137.78",$255.78,23,Sep,2021
+27/09/2021,P0034,1,Direct Sales,Cash,0.0%,Product34,Category04,Lt,$55.00,$58.30,$55.00,$58.30,$3.30,27,Sep,2021
+30/09/2021,P0014,9,Online,Online,0.0%,Product14,Category02,Kg,$112.00,$146.72,"$1,008.00","$1,320.48",$312.48,30,Sep,2021
+30/09/2021,P0006,5,Online,Online,0.0%,Product06,Category01,Kg,$75.00,$85.50,$375.00,$427.50,$52.50,30,Sep,2021
+01/10/2021,P0030,14,Online,Cash,0.0%,Product30,Category04,Ft,$148.00,$201.28,"$2,072.00","$2,817.92",$745.92,1,Oct,2021
+02/10/2021,P0014,15,Direct Sales,Online,0.0%,Product14,Category02,Kg,$112.00,$146.72,"$1,680.00","$2,200.80",$520.80,2,Oct,2021
+03/10/2021,P0019,9,Direct Sales,Online,0.0%,Product19,Category02,Ft,$150.00,$210.00,"$1,350.00","$1,890.00",$540.00,3,Oct,2021
+06/10/2021,P0035,1,Direct Sales,Online,0.0%,Product35,Category04,No.,$5.00,$6.70,$5.00,$6.70,$1.70,6,Oct,2021
+06/10/2021,P0036,12,Online,Online,0.0%,Product36,Category04,Kg,$90.00,$96.30,"$1,080.00","$1,155.60",$75.60,6,Oct,2021
+07/10/2021,P0026,6,Direct Sales,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$108.00,$147.96,$39.96,7,Oct,2021
+09/10/2021,P0038,5,Direct Sales,Cash,0.0%,Product38,Category05,Kg,$72.00,$79.92,$360.00,$399.60,$39.60,9,Oct,2021
+09/10/2021,P0032,11,Online,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,$979.00,"$1,292.28",$313.28,9,Oct,2021
+10/10/2021,P0035,14,Direct Sales,Cash,0.0%,Product35,Category04,No.,$5.00,$6.70,$70.00,$93.80,$23.80,10,Oct,2021
+11/10/2021,P0011,15,Direct Sales,Cash,0.0%,Product11,Category02,Lt,$44.00,$48.40,$660.00,$726.00,$66.00,11,Oct,2021
+12/10/2021,P0027,8,Online,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$384.00,$456.96,$72.96,12,Oct,2021
+17/10/2021,P0001,13,Direct Sales,Online,0.0%,Product01,Category01,Kg,$98.00,$103.88,"$1,274.00","$1,350.44",$76.44,17,Oct,2021
+18/10/2021,P0025,6,Online,Cash,0.0%,Product25,Category03,No.,$7.00,$8.33,$42.00,$49.98,$7.98,18,Oct,2021
+18/10/2021,P0021,13,Online,Cash,0.0%,Product21,Category03,Ft,$126.00,$162.54,"$1,638.00","$2,113.02",$475.02,18,Oct,2021
+22/10/2021,P0011,7,Direct Sales,Cash,0.0%,Product11,Category02,Lt,$44.00,$48.40,$308.00,$338.80,$30.80,22,Oct,2021
+22/10/2021,P0024,13,Online,Cash,0.0%,Product24,Category03,Ft,$144.00,$156.96,"$1,872.00","$2,040.48",$168.48,22,Oct,2021
+22/10/2021,P0009,1,Direct Sales,Cash,0.0%,Product09,Category01,No.,$6.00,$7.86,$6.00,$7.86,$1.86,22,Oct,2021
+24/10/2021,P0011,3,Wholesaler,Cash,0.0%,Product11,Category02,Lt,$44.00,$48.40,$132.00,$145.20,$13.20,24,Oct,2021
+25/10/2021,P0044,9,Online,Cash,0.0%,Product44,Category05,Kg,$76.00,$82.08,$684.00,$738.72,$54.72,25,Oct,2021
+26/10/2021,P0004,6,Wholesaler,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$264.00,$293.04,$29.04,26,Oct,2021
+28/10/2021,P0008,1,Direct Sales,Cash,0.0%,Product08,Category01,Kg,$83.00,$94.62,$83.00,$94.62,$11.62,28,Oct,2021
+29/10/2021,P0038,14,Online,Online,0.0%,Product38,Category05,Kg,$72.00,$79.92,"$1,008.00","$1,118.88",$110.88,29,Oct,2021
+31/10/2021,P0021,6,Online,Cash,0.0%,Product21,Category03,Ft,$126.00,$162.54,$756.00,$975.24,$219.24,31,Oct,2021
+03/11/2021,P0013,12,Direct Sales,Cash,0.0%,Product13,Category02,Kg,$112.00,$122.08,"$1,344.00","$1,464.96",$120.96,3,Nov,2021
+06/11/2021,P0036,10,Direct Sales,Online,0.0%,Product36,Category04,Kg,$90.00,$96.30,$900.00,$963.00,$63.00,6,Nov,2021
+08/11/2021,P0007,15,Direct Sales,Online,0.0%,Product07,Category01,Lt,$43.00,$47.73,$645.00,$715.95,$70.95,8,Nov,2021
+10/11/2021,P0042,6,Online,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$720.00,$972.00,$252.00,10,Nov,2021
+11/11/2021,P0040,12,Wholesaler,Online,0.0%,Product40,Category05,Kg,$90.00,$115.20,"$1,080.00","$1,382.40",$302.40,11,Nov,2021
+12/11/2021,P0010,3,Online,Cash,0.0%,Product10,Category02,Ft,$148.00,$164.28,$444.00,$492.84,$48.84,12,Nov,2021
+20/11/2021,P0034,14,Online,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$770.00,$816.20,$46.20,20,Nov,2021
+20/11/2021,P0008,11,Online,Cash,0.0%,Product08,Category01,Kg,$83.00,$94.62,$913.00,"$1,040.82",$127.82,20,Nov,2021
+21/11/2021,P0014,1,Wholesaler,Online,0.0%,Product14,Category02,Kg,$112.00,$146.72,$112.00,$146.72,$34.72,21,Nov,2021
+21/11/2021,P0006,1,Online,Cash,0.0%,Product06,Category01,Kg,$75.00,$85.50,$75.00,$85.50,$10.50,21,Nov,2021
+27/11/2021,P0012,8,Online,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,$584.00,$753.36,$169.36,27,Nov,2021
+28/11/2021,P0040,2,Direct Sales,Cash,0.0%,Product40,Category05,Kg,$90.00,$115.20,$180.00,$230.40,$50.40,28,Nov,2021
+30/11/2021,P0039,15,Direct Sales,Online,0.0%,Product39,Category05,No.,$37.00,$42.55,$555.00,$638.25,$83.25,30,Nov,2021
+02/12/2021,P0016,10,Direct Sales,Cash,0.0%,Product16,Category02,No.,$13.00,$16.64,$130.00,$166.40,$36.40,2,Dec,2021
+03/12/2021,P0034,2,Online,Cash,0.0%,Product34,Category04,Lt,$55.00,$58.30,$110.00,$116.60,$6.60,3,Dec,2021
+03/12/2021,P0019,8,Online,Online,0.0%,Product19,Category02,Ft,$150.00,$210.00,"$1,200.00","$1,680.00",$480.00,3,Dec,2021
+05/12/2021,P0004,15,Direct Sales,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$660.00,$732.60,$72.60,5,Dec,2021
+05/12/2021,P0010,1,Direct Sales,Online,0.0%,Product10,Category02,Ft,$148.00,$164.28,$148.00,$164.28,$16.28,5,Dec,2021
+07/12/2021,P0013,8,Direct Sales,Online,0.0%,Product13,Category02,Kg,$112.00,$122.08,$896.00,$976.64,$80.64,7,Dec,2021
+08/12/2021,P0044,14,Direct Sales,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,"$1,064.00","$1,149.12",$85.12,8,Dec,2021
+14/12/2021,P0042,4,Direct Sales,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,$480.00,$648.00,$168.00,14,Dec,2021
+18/12/2021,P0003,2,Direct Sales,Cash,0.0%,Product03,Category01,Kg,$71.00,$80.94,$142.00,$161.88,$19.88,18,Dec,2021
+18/12/2021,P0022,8,Online,Cash,0.0%,Product22,Category03,Ft,$121.00,$141.57,$968.00,"$1,132.56",$164.56,18,Dec,2021
+19/12/2021,P0023,12,Direct Sales,Online,0.0%,Product23,Category03,Ft,$141.00,$149.46,"$1,692.00","$1,793.52",$101.52,19,Dec,2021
+19/12/2021,P0029,3,Wholesaler,Online,0.0%,Product29,Category04,Lt,$47.00,$53.11,$141.00,$159.33,$18.33,19,Dec,2021
+19/12/2021,P0011,10,Online,Online,0.0%,Product11,Category02,Lt,$44.00,$48.40,$440.00,$484.00,$44.00,19,Dec,2021
+20/12/2021,P0012,14,Direct Sales,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,"$1,022.00","$1,318.38",$296.38,20,Dec,2021
+21/12/2021,P0026,10,Online,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$180.00,$246.60,$66.60,21,Dec,2021
+24/12/2021,P0042,8,Wholesaler,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$960.00,"$1,296.00",$336.00,24,Dec,2021
+24/12/2021,P0036,8,Wholesaler,Online,0.0%,Product36,Category04,Kg,$90.00,$96.30,$720.00,$770.40,$50.40,24,Dec,2021
+26/12/2021,P0041,14,Online,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,932.00","$2,434.32",$502.32,26,Dec,2021
+27/12/2021,P0029,14,Direct Sales,Cash,0.0%,Product29,Category04,Lt,$47.00,$53.11,$658.00,$743.54,$85.54,27,Dec,2021
+28/12/2021,P0029,6,Direct Sales,Cash,0.0%,Product29,Category04,Lt,$47.00,$53.11,$282.00,$318.66,$36.66,28,Dec,2021
+30/12/2021,P0010,13,Online,Online,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,924.00","$2,135.64",$211.64,30,Dec,2021
+01/01/2022,P0022,1,Wholesaler,Cash,0.0%,Product22,Category03,Ft,$121.00,$141.57,$121.00,$141.57,$20.57,1,Jan,2022
+02/01/2022,P0010,7,Direct Sales,Cash,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,036.00","$1,149.96",$113.96,2,Jan,2022
+02/01/2022,P0015,2,Online,Cash,0.0%,Product15,Category02,No.,$12.00,$15.72,$24.00,$31.44,$7.44,2,Jan,2022
+02/01/2022,P0033,1,Direct Sales,Cash,0.0%,Product33,Category04,Kg,$95.00,$119.70,$95.00,$119.70,$24.70,2,Jan,2022
+03/01/2022,P0043,9,Direct Sales,Cash,0.0%,Product43,Category05,Kg,$67.00,$83.08,$603.00,$747.72,$144.72,3,Jan,2022
+04/01/2022,P0012,8,Direct Sales,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,$584.00,$753.36,$169.36,4,Jan,2022
+04/01/2022,P0029,1,Online,Online,0.0%,Product29,Category04,Lt,$47.00,$53.11,$47.00,$53.11,$6.11,4,Jan,2022
+09/01/2022,P0032,12,Direct Sales,Online,0.0%,Product32,Category04,Kg,$89.00,$117.48,"$1,068.00","$1,409.76",$341.76,9,Jan,2022
+10/01/2022,P0034,14,Online,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$770.00,$816.20,$46.20,10,Jan,2022
+11/01/2022,P0032,2,Direct Sales,Online,0.0%,Product32,Category04,Kg,$89.00,$117.48,$178.00,$234.96,$56.96,11,Jan,2022
+13/01/2022,P0019,6,Online,Online,0.0%,Product19,Category02,Ft,$150.00,$210.00,$900.00,"$1,260.00",$360.00,13,Jan,2022
+14/01/2022,P0011,14,Direct Sales,Online,0.0%,Product11,Category02,Lt,$44.00,$48.40,$616.00,$677.60,$61.60,14,Jan,2022
+15/01/2022,P0022,10,Direct Sales,Cash,0.0%,Product22,Category03,Ft,$121.00,$141.57,"$1,210.00","$1,415.70",$205.70,15,Jan,2022
+16/01/2022,P0014,11,Online,Cash,0.0%,Product14,Category02,Kg,$112.00,$146.72,"$1,232.00","$1,613.92",$381.92,16,Jan,2022
+17/01/2022,P0040,4,Online,Online,0.0%,Product40,Category05,Kg,$90.00,$115.20,$360.00,$460.80,$100.80,17,Jan,2022
+18/01/2022,P0008,9,Wholesaler,Cash,0.0%,Product08,Category01,Kg,$83.00,$94.62,$747.00,$851.58,$104.58,18,Jan,2022
+20/01/2022,P0021,2,Direct Sales,Cash,0.0%,Product21,Category03,Ft,$126.00,$162.54,$252.00,$325.08,$73.08,20,Jan,2022
+20/01/2022,P0014,7,Online,Online,0.0%,Product14,Category02,Kg,$112.00,$146.72,$784.00,"$1,027.04",$243.04,20,Jan,2022
+22/01/2022,P0001,6,Online,Cash,0.0%,Product01,Category01,Kg,$98.00,$103.88,$588.00,$623.28,$35.28,22,Jan,2022
+23/01/2022,P0002,5,Wholesaler,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,$525.00,$714.00,$189.00,23,Jan,2022
+23/01/2022,P0042,8,Direct Sales,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,$960.00,"$1,296.00",$336.00,23,Jan,2022
+24/01/2022,P0030,15,Online,Online,0.0%,Product30,Category04,Ft,$148.00,$201.28,"$2,220.00","$3,019.20",$799.20,24,Jan,2022
+25/01/2022,P0017,14,Direct Sales,Cash,0.0%,Product17,Category02,Ft,$134.00,$156.78,"$1,876.00","$2,194.92",$318.92,25,Jan,2022
+28/01/2022,P0016,11,Direct Sales,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$143.00,$183.04,$40.04,28,Jan,2022
+31/01/2022,P0023,6,Online,Cash,0.0%,Product23,Category03,Ft,$141.00,$149.46,$846.00,$896.76,$50.76,31,Jan,2022
+31/01/2022,P0041,9,Direct Sales,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,242.00","$1,564.92",$322.92,31,Jan,2022
+01/02/2022,P0005,9,Direct Sales,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,"$1,197.00","$1,400.49",$203.49,1,Feb,2022
+03/02/2022,P0014,8,Direct Sales,Online,0.0%,Product14,Category02,Kg,$112.00,$146.72,$896.00,"$1,173.76",$277.76,3,Feb,2022
+05/02/2022,P0018,6,Direct Sales,Cash,0.0%,Product18,Category02,No.,$37.00,$49.21,$222.00,$295.26,$73.26,5,Feb,2022
+06/02/2022,P0002,6,Direct Sales,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,$630.00,$856.80,$226.80,6,Feb,2022
+08/02/2022,P0005,11,Online,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,"$1,463.00","$1,711.71",$248.71,8,Feb,2022
+08/02/2022,P0004,3,Online,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$132.00,$146.52,$14.52,8,Feb,2022
+09/02/2022,P0032,14,Online,Online,0.0%,Product32,Category04,Kg,$89.00,$117.48,"$1,246.00","$1,644.72",$398.72,9,Feb,2022
+12/02/2022,P0010,13,Direct Sales,Cash,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,924.00","$2,135.64",$211.64,12,Feb,2022
+14/02/2022,P0026,8,Online,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$144.00,$197.28,$53.28,14,Feb,2022
+14/02/2022,P0028,3,Direct Sales,Cash,0.0%,Product28,Category04,No.,$37.00,$41.81,$111.00,$125.43,$14.43,14,Feb,2022
+16/02/2022,P0032,1,Online,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,$89.00,$117.48,$28.48,16,Feb,2022
+19/02/2022,P0002,13,Online,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,"$1,365.00","$1,856.40",$491.40,19,Feb,2022
+20/02/2022,P0012,6,Direct Sales,Cash,0.0%,Product12,Category02,Kg,$73.00,$94.17,$438.00,$565.02,$127.02,20,Feb,2022
+23/02/2022,P0013,6,Online,Online,0.0%,Product13,Category02,Kg,$112.00,$122.08,$672.00,$732.48,$60.48,23,Feb,2022
+23/02/2022,P0016,15,Online,Cash,0.0%,Product16,Category02,No.,$13.00,$16.64,$195.00,$249.60,$54.60,23,Feb,2022
+23/02/2022,P0036,8,Direct Sales,Online,0.0%,Product36,Category04,Kg,$90.00,$96.30,$720.00,$770.40,$50.40,23,Feb,2022
+27/02/2022,P0012,7,Direct Sales,Cash,0.0%,Product12,Category02,Kg,$73.00,$94.17,$511.00,$659.19,$148.19,27,Feb,2022
+27/02/2022,P0005,15,Direct Sales,Online,0.0%,Product05,Category01,Ft,$133.00,$155.61,"$1,995.00","$2,334.15",$339.15,27,Feb,2022
+28/02/2022,P0037,15,Direct Sales,Cash,0.0%,Product37,Category05,Kg,$67.00,$85.76,"$1,005.00","$1,286.40",$281.40,28,Feb,2022
+04/03/2022,P0026,13,Wholesaler,Online,0.0%,Product26,Category04,No.,$18.00,$24.66,$234.00,$320.58,$86.58,4,Mar,2022
+06/03/2022,P0004,2,Direct Sales,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$88.00,$97.68,$9.68,6,Mar,2022
+07/03/2022,P0003,1,Direct Sales,Cash,0.0%,Product03,Category01,Kg,$71.00,$80.94,$71.00,$80.94,$9.94,7,Mar,2022
+08/03/2022,P0044,6,Direct Sales,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,$456.00,$492.48,$36.48,8,Mar,2022
+09/03/2022,P0030,3,Direct Sales,Online,0.0%,Product30,Category04,Ft,$148.00,$201.28,$444.00,$603.84,$159.84,9,Mar,2022
+09/03/2022,P0004,11,Online,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$484.00,$537.24,$53.24,9,Mar,2022
+10/03/2022,P0033,12,Wholesaler,Online,0.0%,Product33,Category04,Kg,$95.00,$119.70,"$1,140.00","$1,436.40",$296.40,10,Mar,2022
+14/03/2022,P0016,2,Direct Sales,Cash,0.0%,Product16,Category02,No.,$13.00,$16.64,$26.00,$33.28,$7.28,14,Mar,2022
+14/03/2022,P0026,13,Direct Sales,Online,0.0%,Product26,Category04,No.,$18.00,$24.66,$234.00,$320.58,$86.58,14,Mar,2022
+18/03/2022,P0019,2,Online,Cash,0.0%,Product19,Category02,Ft,$150.00,$210.00,$300.00,$420.00,$120.00,18,Mar,2022
+18/03/2022,P0027,10,Direct Sales,Cash,0.0%,Product27,Category04,Lt,$48.00,$57.12,$480.00,$571.20,$91.20,18,Mar,2022
+19/03/2022,P0041,6,Wholesaler,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,$828.00,"$1,043.28",$215.28,19,Mar,2022
+23/03/2022,P0032,9,Direct Sales,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,$801.00,"$1,057.32",$256.32,23,Mar,2022
+25/03/2022,P0001,2,Wholesaler,Online,0.0%,Product01,Category01,Kg,$98.00,$103.88,$196.00,$207.76,$11.76,25,Mar,2022
+25/03/2022,P0030,11,Direct Sales,Online,0.0%,Product30,Category04,Ft,$148.00,$201.28,"$1,628.00","$2,214.08",$586.08,25,Mar,2022
+29/03/2022,P0032,12,Online,Online,0.0%,Product32,Category04,Kg,$89.00,$117.48,"$1,068.00","$1,409.76",$341.76,29,Mar,2022
+30/03/2022,P0001,13,Online,Cash,0.0%,Product01,Category01,Kg,$98.00,$103.88,"$1,274.00","$1,350.44",$76.44,30,Mar,2022
+01/04/2022,P0002,2,Online,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,$210.00,$285.60,$75.60,1,Apr,2022
+02/04/2022,P0002,3,Direct Sales,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,$315.00,$428.40,$113.40,2,Apr,2022
+06/04/2022,P0040,2,Wholesaler,Cash,0.0%,Product40,Category05,Kg,$90.00,$115.20,$180.00,$230.40,$50.40,6,Apr,2022
+07/04/2022,P0026,7,Direct Sales,Online,0.0%,Product26,Category04,No.,$18.00,$24.66,$126.00,$172.62,$46.62,7,Apr,2022
+09/04/2022,P0039,12,Wholesaler,Cash,0.0%,Product39,Category05,No.,$37.00,$42.55,$444.00,$510.60,$66.60,9,Apr,2022
+09/04/2022,P0002,9,Online,Online,0.0%,Product02,Category01,Kg,$105.00,$142.80,$945.00,"$1,285.20",$340.20,9,Apr,2022
+13/04/2022,P0016,14,Wholesaler,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$182.00,$232.96,$50.96,13,Apr,2022
+18/04/2022,P0041,9,Direct Sales,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,242.00","$1,564.92",$322.92,18,Apr,2022
+20/04/2022,P0018,2,Wholesaler,Online,0.0%,Product18,Category02,No.,$37.00,$49.21,$74.00,$98.42,$24.42,20,Apr,2022
+20/04/2022,P0012,4,Direct Sales,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,$292.00,$376.68,$84.68,20,Apr,2022
+21/04/2022,P0030,2,Direct Sales,Cash,0.0%,Product30,Category04,Ft,$148.00,$201.28,$296.00,$402.56,$106.56,21,Apr,2022
+21/04/2022,P0026,14,Online,Online,0.0%,Product26,Category04,No.,$18.00,$24.66,$252.00,$345.24,$93.24,21,Apr,2022
+23/04/2022,P0044,15,Online,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,"$1,140.00","$1,231.20",$91.20,23,Apr,2022
+24/04/2022,P0034,4,Direct Sales,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$220.00,$233.20,$13.20,24,Apr,2022
+25/04/2022,P0004,9,Direct Sales,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$396.00,$439.56,$43.56,25,Apr,2022
+25/04/2022,P0003,8,Online,Online,0.0%,Product03,Category01,Kg,$71.00,$80.94,$568.00,$647.52,$79.52,25,Apr,2022
+26/04/2022,P0027,2,Direct Sales,Cash,0.0%,Product27,Category04,Lt,$48.00,$57.12,$96.00,$114.24,$18.24,26,Apr,2022
+28/04/2022,P0014,14,Direct Sales,Cash,0.0%,Product14,Category02,Kg,$112.00,$146.72,"$1,568.00","$2,054.08",$486.08,28,Apr,2022
+30/04/2022,P0016,13,Online,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$169.00,$216.32,$47.32,30,Apr,2022
+30/04/2022,P0027,8,Direct Sales,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$384.00,$456.96,$72.96,30,Apr,2022
+01/05/2022,P0034,9,Wholesaler,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$495.00,$524.70,$29.70,1,May,2022
+01/05/2022,P0033,6,Online,Online,0.0%,Product33,Category04,Kg,$95.00,$119.70,$570.00,$718.20,$148.20,1,May,2022
+02/05/2022,P0013,4,Online,Cash,0.0%,Product13,Category02,Kg,$112.00,$122.08,$448.00,$488.32,$40.32,2,May,2022
+04/05/2022,P0020,10,Direct Sales,Online,0.0%,Product20,Category03,Lt,$61.00,$76.25,$610.00,$762.50,$152.50,4,May,2022
+06/05/2022,P0034,7,Direct Sales,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$385.00,$408.10,$23.10,6,May,2022
+07/05/2022,P0015,4,Online,Cash,0.0%,Product15,Category02,No.,$12.00,$15.72,$48.00,$62.88,$14.88,7,May,2022
+07/05/2022,P0027,1,Online,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$48.00,$57.12,$9.12,7,May,2022
+08/05/2022,P0022,7,Online,Online,0.0%,Product22,Category03,Ft,$121.00,$141.57,$847.00,$990.99,$143.99,8,May,2022
+09/05/2022,P0017,12,Wholesaler,Cash,0.0%,Product17,Category02,Ft,$134.00,$156.78,"$1,608.00","$1,881.36",$273.36,9,May,2022
+10/05/2022,P0009,6,Direct Sales,Online,0.0%,Product09,Category01,No.,$6.00,$7.86,$36.00,$47.16,$11.16,10,May,2022
+12/05/2022,P0011,7,Online,Cash,0.0%,Product11,Category02,Lt,$44.00,$48.40,$308.00,$338.80,$30.80,12,May,2022
+13/05/2022,P0012,5,Direct Sales,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,$365.00,$470.85,$105.85,13,May,2022
+14/05/2022,P0008,14,Direct Sales,Cash,0.0%,Product08,Category01,Kg,$83.00,$94.62,"$1,162.00","$1,324.68",$162.68,14,May,2022
+15/05/2022,P0020,5,Online,Online,0.0%,Product20,Category03,Lt,$61.00,$76.25,$305.00,$381.25,$76.25,15,May,2022
+16/05/2022,P0010,13,Direct Sales,Cash,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,924.00","$2,135.64",$211.64,16,May,2022
+16/05/2022,P0031,13,Online,Online,0.0%,Product31,Category04,Kg,$93.00,$104.16,"$1,209.00","$1,354.08",$145.08,16,May,2022
+17/05/2022,P0027,8,Direct Sales,Cash,0.0%,Product27,Category04,Lt,$48.00,$57.12,$384.00,$456.96,$72.96,17,May,2022
+18/05/2022,P0027,4,Wholesaler,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$192.00,$228.48,$36.48,18,May,2022
+18/05/2022,P0038,8,Wholesaler,Online,0.0%,Product38,Category05,Kg,$72.00,$79.92,$576.00,$639.36,$63.36,18,May,2022
+20/05/2022,P0044,15,Online,Cash,0.0%,Product44,Category05,Kg,$76.00,$82.08,"$1,140.00","$1,231.20",$91.20,20,May,2022
+22/05/2022,P0015,12,Direct Sales,Online,0.0%,Product15,Category02,No.,$12.00,$15.72,$144.00,$188.64,$44.64,22,May,2022
+25/05/2022,P0002,7,Online,Online,0.0%,Product02,Category01,Kg,$105.00,$142.80,$735.00,$999.60,$264.60,25,May,2022
+26/05/2022,P0028,2,Direct Sales,Online,0.0%,Product28,Category04,No.,$37.00,$41.81,$74.00,$83.62,$9.62,26,May,2022
+26/05/2022,P0027,2,Online,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$96.00,$114.24,$18.24,26,May,2022
+28/05/2022,P0041,10,Wholesaler,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,380.00","$1,738.80",$358.80,28,May,2022
+28/05/2022,P0008,5,Wholesaler,Online,0.0%,Product08,Category01,Kg,$83.00,$94.62,$415.00,$473.10,$58.10,28,May,2022
+28/05/2022,P0010,9,Online,Cash,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,332.00","$1,478.52",$146.52,28,May,2022
+28/05/2022,P0004,12,Online,Online,0.0%,Product04,Category01,Lt,$44.00,$48.84,$528.00,$586.08,$58.08,28,May,2022
+28/05/2022,P0020,14,Direct Sales,Cash,0.0%,Product20,Category03,Lt,$61.00,$76.25,$854.00,"$1,067.50",$213.50,28,May,2022
+30/05/2022,P0044,9,Direct Sales,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,$684.00,$738.72,$54.72,30,May,2022
+30/05/2022,P0005,4,Wholesaler,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,$532.00,$622.44,$90.44,30,May,2022
+30/05/2022,P0033,3,Online,Cash,0.0%,Product33,Category04,Kg,$95.00,$119.70,$285.00,$359.10,$74.10,30,May,2022
+03/06/2022,P0008,14,Online,Online,0.0%,Product08,Category01,Kg,$83.00,$94.62,"$1,162.00","$1,324.68",$162.68,3,Jun,2022
+10/06/2022,P0028,8,Wholesaler,Online,0.0%,Product28,Category04,No.,$37.00,$41.81,$296.00,$334.48,$38.48,10,Jun,2022
+11/06/2022,P0039,13,Online,Cash,0.0%,Product39,Category05,No.,$37.00,$42.55,$481.00,$553.15,$72.15,11,Jun,2022
+11/06/2022,P0021,6,Direct Sales,Online,0.0%,Product21,Category03,Ft,$126.00,$162.54,$756.00,$975.24,$219.24,11,Jun,2022
+13/06/2022,P0026,6,Direct Sales,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$108.00,$147.96,$39.96,13,Jun,2022
+15/06/2022,P0042,15,Wholesaler,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,"$1,800.00","$2,430.00",$630.00,15,Jun,2022
+16/06/2022,P0029,15,Online,Cash,0.0%,Product29,Category04,Lt,$47.00,$53.11,$705.00,$796.65,$91.65,16,Jun,2022
+19/06/2022,P0002,8,Direct Sales,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,$840.00,"$1,142.40",$302.40,19,Jun,2022
+21/06/2022,P0017,14,Direct Sales,Cash,0.0%,Product17,Category02,Ft,$134.00,$156.78,"$1,876.00","$2,194.92",$318.92,21,Jun,2022
+22/06/2022,P0040,10,Online,Cash,0.0%,Product40,Category05,Kg,$90.00,$115.20,$900.00,"$1,152.00",$252.00,22,Jun,2022
+22/06/2022,P0001,4,Direct Sales,Cash,0.0%,Product01,Category01,Kg,$98.00,$103.88,$392.00,$415.52,$23.52,22,Jun,2022
+23/06/2022,P0004,8,Direct Sales,Online,0.0%,Product04,Category01,Lt,$44.00,$48.84,$352.00,$390.72,$38.72,23,Jun,2022
+24/06/2022,P0018,7,Direct Sales,Cash,0.0%,Product18,Category02,No.,$37.00,$49.21,$259.00,$344.47,$85.47,24,Jun,2022
+25/06/2022,P0012,7,Online,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,$511.00,$659.19,$148.19,25,Jun,2022
+26/06/2022,P0034,4,Direct Sales,Cash,0.0%,Product34,Category04,Lt,$55.00,$58.30,$220.00,$233.20,$13.20,26,Jun,2022
+26/06/2022,P0043,12,Direct Sales,Online,0.0%,Product43,Category05,Kg,$67.00,$83.08,$804.00,$996.96,$192.96,26,Jun,2022
+03/07/2022,P0033,15,Direct Sales,Cash,0.0%,Product33,Category04,Kg,$95.00,$119.70,"$1,425.00","$1,795.50",$370.50,3,Jul,2022
+04/07/2022,P0007,7,Direct Sales,Online,0.0%,Product07,Category01,Lt,$43.00,$47.73,$301.00,$334.11,$33.11,4,Jul,2022
+05/07/2022,P0025,7,Online,Cash,0.0%,Product25,Category03,No.,$7.00,$8.33,$49.00,$58.31,$9.31,5,Jul,2022
+05/07/2022,P0015,8,Direct Sales,Online,0.0%,Product15,Category02,No.,$12.00,$15.72,$96.00,$125.76,$29.76,5,Jul,2022
+06/07/2022,P0041,2,Direct Sales,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,$276.00,$347.76,$71.76,6,Jul,2022
+08/07/2022,P0018,2,Direct Sales,Online,0.0%,Product18,Category02,No.,$37.00,$49.21,$74.00,$98.42,$24.42,8,Jul,2022
+10/07/2022,P0032,12,Online,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,"$1,068.00","$1,409.76",$341.76,10,Jul,2022
+12/07/2022,P0028,12,Direct Sales,Cash,0.0%,Product28,Category04,No.,$37.00,$41.81,$444.00,$501.72,$57.72,12,Jul,2022
+13/07/2022,P0025,7,Direct Sales,Online,0.0%,Product25,Category03,No.,$7.00,$8.33,$49.00,$58.31,$9.31,13,Jul,2022
+14/07/2022,P0033,9,Direct Sales,Online,0.0%,Product33,Category04,Kg,$95.00,$119.70,$855.00,"$1,077.30",$222.30,14,Jul,2022
+15/07/2022,P0004,2,Online,Online,0.0%,Product04,Category01,Lt,$44.00,$48.84,$88.00,$97.68,$9.68,15,Jul,2022
+17/07/2022,P0041,8,Online,Cash,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,104.00","$1,391.04",$287.04,17,Jul,2022
+18/07/2022,P0010,12,Direct Sales,Online,0.0%,Product10,Category02,Ft,$148.00,$164.28,"$1,776.00","$1,971.36",$195.36,18,Jul,2022
+20/07/2022,P0042,8,Wholesaler,Online,0.0%,Product42,Category05,Ft,$120.00,$162.00,$960.00,"$1,296.00",$336.00,20,Jul,2022
+22/07/2022,P0034,6,Direct Sales,Cash,0.0%,Product34,Category04,Lt,$55.00,$58.30,$330.00,$349.80,$19.80,22,Jul,2022
+23/07/2022,P0018,2,Online,Online,0.0%,Product18,Category02,No.,$37.00,$49.21,$74.00,$98.42,$24.42,23,Jul,2022
+24/07/2022,P0006,14,Direct Sales,Cash,0.0%,Product06,Category01,Kg,$75.00,$85.50,"$1,050.00","$1,197.00",$147.00,24,Jul,2022
+24/07/2022,P0027,1,Online,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$48.00,$57.12,$9.12,24,Jul,2022
+25/07/2022,P0044,2,Direct Sales,Cash,0.0%,Product44,Category05,Kg,$76.00,$82.08,$152.00,$164.16,$12.16,25,Jul,2022
+25/07/2022,P0017,12,Direct Sales,Cash,0.0%,Product17,Category02,Ft,$134.00,$156.78,"$1,608.00","$1,881.36",$273.36,25,Jul,2022
+25/07/2022,P0003,13,Online,Cash,0.0%,Product03,Category01,Kg,$71.00,$80.94,$923.00,"$1,052.22",$129.22,25,Jul,2022
+26/07/2022,P0003,10,Online,Online,0.0%,Product03,Category01,Kg,$71.00,$80.94,$710.00,$809.40,$99.40,26,Jul,2022
+26/07/2022,P0026,1,Online,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$18.00,$24.66,$6.66,26,Jul,2022
+03/08/2022,P0012,5,Direct Sales,Cash,0.0%,Product12,Category02,Kg,$73.00,$94.17,$365.00,$470.85,$105.85,3,Aug,2022
+06/08/2022,P0016,9,Online,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$117.00,$149.76,$32.76,6,Aug,2022
+08/08/2022,P0016,2,Direct Sales,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$26.00,$33.28,$7.28,8,Aug,2022
+08/08/2022,P0032,12,Direct Sales,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,"$1,068.00","$1,409.76",$341.76,8,Aug,2022
+08/08/2022,P0021,11,Direct Sales,Cash,0.0%,Product21,Category03,Ft,$126.00,$162.54,"$1,386.00","$1,787.94",$401.94,8,Aug,2022
+14/08/2022,P0030,14,Direct Sales,Cash,0.0%,Product30,Category04,Ft,$148.00,$201.28,"$2,072.00","$2,817.92",$745.92,14,Aug,2022
+15/08/2022,P0011,10,Wholesaler,Cash,0.0%,Product11,Category02,Lt,$44.00,$48.40,$440.00,$484.00,$44.00,15,Aug,2022
+15/08/2022,P0015,7,Direct Sales,Online,0.0%,Product15,Category02,No.,$12.00,$15.72,$84.00,$110.04,$26.04,15,Aug,2022
+18/08/2022,P0029,8,Online,Online,0.0%,Product29,Category04,Lt,$47.00,$53.11,$376.00,$424.88,$48.88,18,Aug,2022
+18/08/2022,P0010,2,Online,Cash,0.0%,Product10,Category02,Ft,$148.00,$164.28,$296.00,$328.56,$32.56,18,Aug,2022
+19/08/2022,P0007,3,Online,Online,0.0%,Product07,Category01,Lt,$43.00,$47.73,$129.00,$143.19,$14.19,19,Aug,2022
+20/08/2022,P0023,13,Direct Sales,Online,0.0%,Product23,Category03,Ft,$141.00,$149.46,"$1,833.00","$1,942.98",$109.98,20,Aug,2022
+20/08/2022,P0033,14,Direct Sales,Online,0.0%,Product33,Category04,Kg,$95.00,$119.70,"$1,330.00","$1,675.80",$345.80,20,Aug,2022
+21/08/2022,P0016,4,Direct Sales,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$52.00,$66.56,$14.56,21,Aug,2022
+23/08/2022,P0044,11,Online,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,$836.00,$902.88,$66.88,23,Aug,2022
+23/08/2022,P0029,14,Direct Sales,Cash,0.0%,Product29,Category04,Lt,$47.00,$53.11,$658.00,$743.54,$85.54,23,Aug,2022
+24/08/2022,P0005,5,Direct Sales,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,$665.00,$778.05,$113.05,24,Aug,2022
+26/08/2022,P0019,13,Wholesaler,Cash,0.0%,Product19,Category02,Ft,$150.00,$210.00,"$1,950.00","$2,730.00",$780.00,26,Aug,2022
+26/08/2022,P0037,8,Online,Online,0.0%,Product37,Category05,Kg,$67.00,$85.76,$536.00,$686.08,$150.08,26,Aug,2022
+27/08/2022,P0039,15,Wholesaler,Online,0.0%,Product39,Category05,No.,$37.00,$42.55,$555.00,$638.25,$83.25,27,Aug,2022
+28/08/2022,P0005,9,Online,Online,0.0%,Product05,Category01,Ft,$133.00,$155.61,"$1,197.00","$1,400.49",$203.49,28,Aug,2022
+28/08/2022,P0039,5,Direct Sales,Online,0.0%,Product39,Category05,No.,$37.00,$42.55,$185.00,$212.75,$27.75,28,Aug,2022
+30/08/2022,P0006,6,Online,Cash,0.0%,Product06,Category01,Kg,$75.00,$85.50,$450.00,$513.00,$63.00,30,Aug,2022
+30/08/2022,P0043,6,Direct Sales,Cash,0.0%,Product43,Category05,Kg,$67.00,$83.08,$402.00,$498.48,$96.48,30,Aug,2022
+30/08/2022,P0025,5,Direct Sales,Cash,0.0%,Product25,Category03,No.,$7.00,$8.33,$35.00,$41.65,$6.65,30,Aug,2022
+31/08/2022,P0015,13,Direct Sales,Cash,0.0%,Product15,Category02,No.,$12.00,$15.72,$156.00,$204.36,$48.36,31,Aug,2022
+04/09/2022,P0002,1,Direct Sales,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,$105.00,$142.80,$37.80,4,Sep,2022
+06/09/2022,P0005,12,Wholesaler,Online,0.0%,Product05,Category01,Ft,$133.00,$155.61,"$1,596.00","$1,867.32",$271.32,6,Sep,2022
+09/09/2022,P0041,9,Direct Sales,Online,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,242.00","$1,564.92",$322.92,9,Sep,2022
+09/09/2022,P0003,3,Direct Sales,Online,0.0%,Product03,Category01,Kg,$71.00,$80.94,$213.00,$242.82,$29.82,9,Sep,2022
+10/09/2022,P0035,15,Online,Cash,0.0%,Product35,Category04,No.,$5.00,$6.70,$75.00,$100.50,$25.50,10,Sep,2022
+10/09/2022,P0038,4,Direct Sales,Cash,0.0%,Product38,Category05,Kg,$72.00,$79.92,$288.00,$319.68,$31.68,10,Sep,2022
+14/09/2022,P0029,3,Direct Sales,Cash,0.0%,Product29,Category04,Lt,$47.00,$53.11,$141.00,$159.33,$18.33,14,Sep,2022
+15/09/2022,P0037,15,Online,Online,0.0%,Product37,Category05,Kg,$67.00,$85.76,"$1,005.00","$1,286.40",$281.40,15,Sep,2022
+18/09/2022,P0026,14,Online,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$252.00,$345.24,$93.24,18,Sep,2022
+19/09/2022,P0033,8,Wholesaler,Cash,0.0%,Product33,Category04,Kg,$95.00,$119.70,$760.00,$957.60,$197.60,19,Sep,2022
+20/09/2022,P0033,6,Direct Sales,Online,0.0%,Product33,Category04,Kg,$95.00,$119.70,$570.00,$718.20,$148.20,20,Sep,2022
+20/09/2022,P0001,10,Direct Sales,Online,0.0%,Product01,Category01,Kg,$98.00,$103.88,$980.00,"$1,038.80",$58.80,20,Sep,2022
+21/09/2022,P0018,14,Online,Online,0.0%,Product18,Category02,No.,$37.00,$49.21,$518.00,$688.94,$170.94,21,Sep,2022
+21/09/2022,P0026,5,Direct Sales,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$90.00,$123.30,$33.30,21,Sep,2022
+22/09/2022,P0043,12,Online,Online,0.0%,Product43,Category05,Kg,$67.00,$83.08,$804.00,$996.96,$192.96,22,Sep,2022
+23/09/2022,P0012,12,Direct Sales,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,$876.00,"$1,130.04",$254.04,23,Sep,2022
+24/09/2022,P0032,14,Direct Sales,Online,0.0%,Product32,Category04,Kg,$89.00,$117.48,"$1,246.00","$1,644.72",$398.72,24,Sep,2022
+24/09/2022,P0032,8,Direct Sales,Cash,0.0%,Product32,Category04,Kg,$89.00,$117.48,$712.00,$939.84,$227.84,24,Sep,2022
+27/09/2022,P0036,4,Direct Sales,Cash,0.0%,Product36,Category04,Kg,$90.00,$96.30,$360.00,$385.20,$25.20,27,Sep,2022
+27/09/2022,P0044,9,Direct Sales,Cash,0.0%,Product44,Category05,Kg,$76.00,$82.08,$684.00,$738.72,$54.72,27,Sep,2022
+27/09/2022,P0038,3,Wholesaler,Cash,0.0%,Product38,Category05,Kg,$72.00,$79.92,$216.00,$239.76,$23.76,27,Sep,2022
+29/09/2022,P0034,13,Direct Sales,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$715.00,$757.90,$42.90,29,Sep,2022
+03/10/2022,P0011,5,Direct Sales,Cash,0.0%,Product11,Category02,Lt,$44.00,$48.40,$220.00,$242.00,$22.00,3,Oct,2022
+04/10/2022,P0007,15,Direct Sales,Online,0.0%,Product07,Category01,Lt,$43.00,$47.73,$645.00,$715.95,$70.95,4,Oct,2022
+06/10/2022,P0035,1,Direct Sales,Online,0.0%,Product35,Category04,No.,$5.00,$6.70,$5.00,$6.70,$1.70,6,Oct,2022
+09/10/2022,P0038,14,Online,Online,0.0%,Product38,Category05,Kg,$72.00,$79.92,"$1,008.00","$1,118.88",$110.88,9,Oct,2022
+10/10/2022,P0019,9,Direct Sales,Online,0.0%,Product19,Category02,Ft,$150.00,$210.00,"$1,350.00","$1,890.00",$540.00,10,Oct,2022
+10/10/2022,P0044,12,Online,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,$912.00,$984.96,$72.96,10,Oct,2022
+11/10/2022,P0008,10,Direct Sales,Online,0.0%,Product08,Category01,Kg,$83.00,$94.62,$830.00,$946.20,$116.20,11,Oct,2022
+13/10/2022,P0002,15,Online,Online,0.0%,Product02,Category01,Kg,$105.00,$142.80,"$1,575.00","$2,142.00",$567.00,13,Oct,2022
+14/10/2022,P0044,15,Wholesaler,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,"$1,140.00","$1,231.20",$91.20,14,Oct,2022
+15/10/2022,P0015,10,Direct Sales,Cash,0.0%,Product15,Category02,No.,$12.00,$15.72,$120.00,$157.20,$37.20,15,Oct,2022
+16/10/2022,P0036,3,Online,Online,0.0%,Product36,Category04,Kg,$90.00,$96.30,$270.00,$288.90,$18.90,16,Oct,2022
+23/10/2022,P0024,14,Online,Cash,0.0%,Product24,Category03,Ft,$144.00,$156.96,"$2,016.00","$2,197.44",$181.44,23,Oct,2022
+30/10/2022,P0042,3,Direct Sales,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$360.00,$486.00,$126.00,30,Oct,2022
+31/10/2022,P0038,8,Direct Sales,Online,0.0%,Product38,Category05,Kg,$72.00,$79.92,$576.00,$639.36,$63.36,31,Oct,2022
+01/11/2022,P0012,15,Wholesaler,Online,0.0%,Product12,Category02,Kg,$73.00,$94.17,"$1,095.00","$1,412.55",$317.55,1,Nov,2022
+02/11/2022,P0015,15,Wholesaler,Cash,0.0%,Product15,Category02,No.,$12.00,$15.72,$180.00,$235.80,$55.80,2,Nov,2022
+02/11/2022,P0030,15,Direct Sales,Cash,0.0%,Product30,Category04,Ft,$148.00,$201.28,"$2,220.00","$3,019.20",$799.20,2,Nov,2022
+02/11/2022,P0035,5,Direct Sales,Cash,0.0%,Product35,Category04,No.,$5.00,$6.70,$25.00,$33.50,$8.50,2,Nov,2022
+03/11/2022,P0020,11,Online,Online,0.0%,Product20,Category03,Lt,$61.00,$76.25,$671.00,$838.75,$167.75,3,Nov,2022
+04/11/2022,P0008,10,Direct Sales,Online,0.0%,Product08,Category01,Kg,$83.00,$94.62,$830.00,$946.20,$116.20,4,Nov,2022
+05/11/2022,P0019,15,Direct Sales,Cash,0.0%,Product19,Category02,Ft,$150.00,$210.00,"$2,250.00","$3,150.00",$900.00,5,Nov,2022
+06/11/2022,P0043,13,Direct Sales,Cash,0.0%,Product43,Category05,Kg,$67.00,$83.08,$871.00,"$1,080.04",$209.04,6,Nov,2022
+06/11/2022,P0015,13,Online,Online,0.0%,Product15,Category02,No.,$12.00,$15.72,$156.00,$204.36,$48.36,6,Nov,2022
+06/11/2022,P0042,13,Direct Sales,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,"$1,560.00","$2,106.00",$546.00,6,Nov,2022
+07/11/2022,P0040,13,Online,Cash,0.0%,Product40,Category05,Kg,$90.00,$115.20,"$1,170.00","$1,497.60",$327.60,7,Nov,2022
+08/11/2022,P0036,11,Wholesaler,Cash,0.0%,Product36,Category04,Kg,$90.00,$96.30,$990.00,"$1,059.30",$69.30,8,Nov,2022
+08/11/2022,P0019,10,Wholesaler,Online,0.0%,Product19,Category02,Ft,$150.00,$210.00,"$1,500.00","$2,100.00",$600.00,8,Nov,2022
+09/11/2022,P0027,8,Online,Cash,0.0%,Product27,Category04,Lt,$48.00,$57.12,$384.00,$456.96,$72.96,9,Nov,2022
+10/11/2022,P0018,7,Direct Sales,Online,0.0%,Product18,Category02,No.,$37.00,$49.21,$259.00,$344.47,$85.47,10,Nov,2022
+13/11/2022,P0027,10,Wholesaler,Cash,0.0%,Product27,Category04,Lt,$48.00,$57.12,$480.00,$571.20,$91.20,13,Nov,2022
+14/11/2022,P0002,1,Direct Sales,Cash,0.0%,Product02,Category01,Kg,$105.00,$142.80,$105.00,$142.80,$37.80,14,Nov,2022
+15/11/2022,P0012,14,Direct Sales,Cash,0.0%,Product12,Category02,Kg,$73.00,$94.17,"$1,022.00","$1,318.38",$296.38,15,Nov,2022
+16/11/2022,P0017,8,Online,Online,0.0%,Product17,Category02,Ft,$134.00,$156.78,"$1,072.00","$1,254.24",$182.24,16,Nov,2022
+18/11/2022,P0034,8,Direct Sales,Cash,0.0%,Product34,Category04,Lt,$55.00,$58.30,$440.00,$466.40,$26.40,18,Nov,2022
+21/11/2022,P0020,6,Direct Sales,Cash,0.0%,Product20,Category03,Lt,$61.00,$76.25,$366.00,$457.50,$91.50,21,Nov,2022
+23/11/2022,P0036,12,Online,Online,0.0%,Product36,Category04,Kg,$90.00,$96.30,"$1,080.00","$1,155.60",$75.60,23,Nov,2022
+25/11/2022,P0004,5,Direct Sales,Cash,0.0%,Product04,Category01,Lt,$44.00,$48.84,$220.00,$244.20,$24.20,25,Nov,2022
+26/11/2022,P0032,5,Direct Sales,Online,0.0%,Product32,Category04,Kg,$89.00,$117.48,$445.00,$587.40,$142.40,26,Nov,2022
+27/11/2022,P0034,15,Direct Sales,Online,0.0%,Product34,Category04,Lt,$55.00,$58.30,$825.00,$874.50,$49.50,27,Nov,2022
+28/11/2022,P0031,8,Direct Sales,Cash,0.0%,Product31,Category04,Kg,$93.00,$104.16,$744.00,$833.28,$89.28,28,Nov,2022
+30/11/2022,P0015,2,Direct Sales,Online,0.0%,Product15,Category02,No.,$12.00,$15.72,$24.00,$31.44,$7.44,30,Nov,2022
+03/12/2022,P0028,5,Wholesaler,Cash,0.0%,Product28,Category04,No.,$37.00,$41.81,$185.00,$209.05,$24.05,3,Dec,2022
+04/12/2022,P0026,10,Direct Sales,Cash,0.0%,Product26,Category04,No.,$18.00,$24.66,$180.00,$246.60,$66.60,4,Dec,2022
+04/12/2022,P0044,15,Direct Sales,Cash,0.0%,Product44,Category05,Kg,$76.00,$82.08,"$1,140.00","$1,231.20",$91.20,4,Dec,2022
+07/12/2022,P0038,12,Direct Sales,Cash,0.0%,Product38,Category05,Kg,$72.00,$79.92,$864.00,$959.04,$95.04,7,Dec,2022
+07/12/2022,P0016,13,Direct Sales,Online,0.0%,Product16,Category02,No.,$13.00,$16.64,$169.00,$216.32,$47.32,7,Dec,2022
+07/12/2022,P0038,5,Direct Sales,Cash,0.0%,Product38,Category05,Kg,$72.00,$79.92,$360.00,$399.60,$39.60,7,Dec,2022
+11/12/2022,P0027,5,Direct Sales,Online,0.0%,Product27,Category04,Lt,$48.00,$57.12,$240.00,$285.60,$45.60,11,Dec,2022
+11/12/2022,P0013,9,Wholesaler,Online,0.0%,Product13,Category02,Kg,$112.00,$122.08,"$1,008.00","$1,098.72",$90.72,11,Dec,2022
+11/12/2022,P0014,10,Online,Cash,0.0%,Product14,Category02,Kg,$112.00,$146.72,"$1,120.00","$1,467.20",$347.20,11,Dec,2022
+12/12/2022,P0030,9,Wholesaler,Cash,0.0%,Product30,Category04,Ft,$148.00,$201.28,"$1,332.00","$1,811.52",$479.52,12,Dec,2022
+12/12/2022,P0041,10,Wholesaler,Online,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,380.00","$1,738.80",$358.80,12,Dec,2022
+14/12/2022,P0005,4,Direct Sales,Cash,0.0%,Product05,Category01,Ft,$133.00,$155.61,$532.00,$622.44,$90.44,14,Dec,2022
+15/12/2022,P0009,13,Direct Sales,Online,0.0%,Product09,Category01,No.,$6.00,$7.86,$78.00,$102.18,$24.18,15,Dec,2022
+19/12/2022,P0044,7,Direct Sales,Online,0.0%,Product44,Category05,Kg,$76.00,$82.08,$532.00,$574.56,$42.56,19,Dec,2022
+19/12/2022,P0011,14,Direct Sales,Cash,0.0%,Product11,Category02,Lt,$44.00,$48.40,$616.00,$677.60,$61.60,19,Dec,2022
+19/12/2022,P0009,11,Online,Online,0.0%,Product09,Category01,No.,$6.00,$7.86,$66.00,$86.46,$20.46,19,Dec,2022
+21/12/2022,P0006,10,Direct Sales,Online,0.0%,Product06,Category01,Kg,$75.00,$85.50,$750.00,$855.00,$105.00,21,Dec,2022
+29/12/2022,P0008,15,Direct Sales,Online,0.0%,Product08,Category01,Kg,$83.00,$94.62,"$1,245.00","$1,419.30",$174.30,29,Dec,2022
+29/12/2022,P0042,1,Wholesaler,Cash,0.0%,Product42,Category05,Ft,$120.00,$162.00,$120.00,$162.00,$42.00,29,Dec,2022
+30/12/2022,P0041,14,Direct Sales,Online,0.0%,Product41,Category05,Ft,$138.00,$173.88,"$1,932.00","$2,434.32",$502.32,30,Dec,2022
+31/12/2022,P0033,12,Online,Online,0.0%,Product33,Category04,Kg,$95.00,$119.70,"$1,140.00","$1,436.40",$296.40,31,Dec,2022
+31/12/2022,P0011,6,Online,Online,0.0%,Product11,Category02,Lt,$44.00,$48.40,$264.00,$290.40,$26.40,31,Dec,2022
+31/12/2022,P0011,3,Wholesaler,Cash,0.0%,Product11,Category02,Lt,$44.00,$48.40,$132.00,$145.20,$13.20,31,Dec,2022
